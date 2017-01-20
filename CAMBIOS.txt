@@ -1,4 +1,10 @@
++ andres
+
 Andres Hernandez	Facultad de Ingenieria
 Me gusta la pizza
 Me gusta Linux y BSD
 No me gusta el betabel :S
+
++ ana
+
+Este archivo lo creo Ana
