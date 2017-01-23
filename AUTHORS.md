@@ -2,7 +2,7 @@
 
 Facultad de Ciencias, UNAM
 Andres Hernandez
-Omar Daniel
+Omar Mtz
 Felix Hernandez
 Ollin Langle
 Leonardo Bermudez
