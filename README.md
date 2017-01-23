@@ -6,5 +6,6 @@ Duracion: 2 semanas, 20 Horas
 
 Favor de leerme antes de usar
 
-Felix Hernadnez : felix.hn@ciencias.unam.mx
-Ana Miranda : orihime.1356@gmail.com
++ Andres Hernandez
++ Felix Hernadnez
++ Ana Miranda
